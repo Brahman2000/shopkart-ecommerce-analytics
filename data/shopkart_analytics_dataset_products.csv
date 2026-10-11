@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+P001,Running Shoes,Shoes,2999
+P002,Casual T-Shirt,Clothing,999
+P003,Slim Fit Jeans,Clothing,1799
+P004,Sports Shoes,Shoes,3499
+P005,Formal Shirt,Clothing,1499
+P006,Hoodie,Clothing,1999
+P007,Smart Watch,Electronics,4999
+P008,Wireless Earbuds,Electronics,2499
+P009,Backpack,Accessories,1299
+P010,Sunglasses,Accessories,899

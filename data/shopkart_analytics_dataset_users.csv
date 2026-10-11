@@ -1,0 +1,251 @@
+user_id,signup_date,city,device,acquisition_channel
+U0001,2026-02-01 19:17:00,Bangalore,Android,Instagram
+U0002,2026-02-22 19:57:00,Mumbai,Web,Referral
+U0003,2026-01-01 09:13:00,Bangalore,Web,Paid Ads
+U0004,2026-01-18 11:45:00,Kolkata,Android,Referral
+U0005,2026-05-26 08:48:00,Jaipur,Web,Referral
+U0006,2026-06-09 10:13:00,Hyderabad,Android,Google
+U0007,2026-07-04 13:54:00,Hyderabad,Web,Organic
+U0008,2026-01-24 15:34:00,Mumbai,iOS,Google
+U0009,2026-09-10 18:39:00,Hyderabad,Web,Instagram
+U0010,2026-02-02 18:14:00,Pune,Android,Instagram
+U0011,2026-02-13 12:29:00,Hyderabad,Android,Organic
+U0012,2026-06-07 18:17:00,Mumbai,Web,Instagram
+U0013,2026-09-24 11:10:00,Chennai,iOS,Organic
+U0014,2026-09-08 18:20:00,Delhi,Android,Google
+U0015,2026-06-13 12:04:00,Bangalore,Web,Organic
+U0016,2026-04-21 15:25:00,Chennai,Android,Organic
+U0017,2026-03-08 19:35:00,Pune,Web,Paid Ads
+U0018,2026-07-19 14:23:00,Bangalore,Android,Paid Ads
+U0019,2026-08-03 20:03:00,Mumbai,Android,Instagram
+U0020,2026-07-20 09:24:00,Kolkata,Web,Referral
+U0021,2026-09-09 16:55:00,Delhi,Web,Google
+U0022,2026-09-25 12:49:00,Hyderabad,Android,Organic
+U0023,2026-07-06 15:00:00,Pune,Web,Instagram
+U0024,2026-09-04 18:19:00,Bangalore,Android,Organic
+U0025,2026-03-18 20:59:00,Delhi,Web,Organic
+U0026,2026-08-01 09:59:00,Hyderabad,iOS,Instagram
+U0027,2026-01-08 17:05:00,Mumbai,Web,Referral
+U0028,2026-02-25 16:49:00,Jaipur,Android,Referral
+U0029,2026-09-06 12:33:00,Kolkata,Android,Paid Ads
+U0030,2026-04-23 12:25:00,Hyderabad,iOS,Paid Ads
+U0031,2026-08-04 11:14:00,Mumbai,iOS,Google
+U0032,2026-09-08 17:14:00,Delhi,Android,Google
+U0033,2026-04-03 08:55:00,Hyderabad,Android,Paid Ads
+U0034,2026-04-09 18:31:00,Bangalore,Web,Instagram
+U0035,2026-08-08 20:30:00,Kolkata,Android,Google
+U0036,2026-02-22 14:22:00,Kolkata,iOS,Referral
+U0037,2026-01-22 18:41:00,Mumbai,Android,Referral
+U0038,2026-06-26 09:15:00,Bangalore,Android,Paid Ads
+U0039,2026-08-05 14:11:00,Pune,iOS,Instagram
+U0040,2026-02-15 20:55:00,Mumbai,Android,Paid Ads
+U0041,2026-01-03 20:54:00,Bangalore,Android,Referral
+U0042,2026-08-16 11:55:00,Kolkata,Android,Instagram
+U0043,2026-07-01 14:16:00,Chennai,iOS,Referral
+U0044,2026-09-22 19:31:00,Jaipur,Android,Organic
+U0045,2026-04-02 17:47:00,Delhi,Web,Organic
+U0046,2026-01-02 17:30:00,Jaipur,Android,Paid Ads
+U0047,2026-02-28 10:04:00,Mumbai,Web,Instagram
+U0048,2026-07-04 17:15:00,Delhi,Web,Google
+U0049,2026-07-22 17:36:00,Hyderabad,iOS,Instagram
+U0050,2026-06-08 12:25:00,Jaipur,Web,Organic
+U0051,2026-08-11 20:59:00,Mumbai,Android,Referral
+U0052,2026-02-03 16:13:00,Pune,Android,Organic
+U0053,2026-02-08 13:18:00,Jaipur,iOS,Paid Ads
+U0054,2026-05-20 20:41:00,Delhi,Web,Paid Ads
+U0055,2026-05-22 09:56:00,Jaipur,iOS,Google
+U0056,2026-02-24 16:09:00,Pune,iOS,Paid Ads
+U0057,2026-04-23 13:13:00,Pune,Web,Referral
+U0058,2026-05-28 08:05:00,Kolkata,iOS,Google
+U0059,2026-01-11 20:08:00,Pune,Android,Referral
+U0060,2026-09-23 14:35:00,Delhi,Android,Google
+U0061,2026-03-18 08:53:00,Hyderabad,Web,Paid Ads
+U0062,2026-03-14 10:02:00,Pune,iOS,Google
+U0063,2026-06-07 18:15:00,Mumbai,iOS,Paid Ads
+U0064,2026-07-20 19:09:00,Bangalore,Android,Instagram
+U0065,2026-07-01 10:47:00,Hyderabad,iOS,Instagram
+U0066,2026-05-06 20:44:00,Mumbai,iOS,Google
+U0067,2026-08-08 11:52:00,Chennai,iOS,Organic
+U0068,2026-04-08 08:42:00,Bangalore,iOS,Organic
+U0069,2026-05-28 09:49:00,Pune,iOS,Paid Ads
+U0070,2026-07-22 16:21:00,Delhi,Android,Organic
+U0071,2026-03-19 12:02:00,Mumbai,Web,Referral
+U0072,2026-06-24 20:20:00,Kolkata,Web,Paid Ads
+U0073,2026-02-13 17:12:00,Pune,Android,Referral
+U0074,2026-01-17 20:34:00,Bangalore,iOS,Referral
+U0075,2026-02-22 13:39:00,Hyderabad,Web,Google
+U0076,2026-05-17 12:42:00,Kolkata,iOS,Referral
+U0077,2026-05-18 10:12:00,Kolkata,Web,Referral
+U0078,2026-03-20 17:19:00,Kolkata,Web,Google
+U0079,2026-05-10 11:27:00,Hyderabad,iOS,Referral
+U0080,2026-08-22 11:32:00,Chennai,Web,Instagram
+U0081,2026-02-10 16:42:00,Hyderabad,Android,Instagram
+U0082,2026-05-08 20:12:00,Jaipur,Android,Google
+U0083,2026-04-16 17:54:00,Mumbai,iOS,Referral
+U0084,2026-04-23 19:24:00,Chennai,iOS,Instagram
+U0085,2026-03-21 19:00:00,Mumbai,iOS,Instagram
+U0086,2026-03-26 19:33:00,Chennai,Android,Paid Ads
+U0087,2026-04-28 09:29:00,Jaipur,iOS,Paid Ads
+U0088,2026-09-20 13:48:00,Chennai,Web,Paid Ads
+U0089,2026-07-27 16:28:00,Jaipur,Web,Referral
+U0090,2026-08-09 20:15:00,Pune,Web,Referral
+U0091,2026-04-09 15:04:00,Pune,Android,Organic
+U0092,2026-06-11 16:05:00,Jaipur,Android,Instagram
+U0093,2026-07-23 10:45:00,Bangalore,Android,Referral
+U0094,2026-07-11 16:29:00,Kolkata,Android,Instagram
+U0095,2026-07-13 20:37:00,Delhi,Web,Referral
+U0096,2026-08-01 13:19:00,Kolkata,iOS,Paid Ads
+U0097,2026-09-26 17:57:00,Bangalore,iOS,Instagram
+U0098,2026-05-14 15:01:00,Kolkata,iOS,Referral
+U0099,2026-03-27 15:58:00,Jaipur,Web,Paid Ads
+U0100,2026-01-13 17:36:00,Delhi,Android,Referral
+U0101,2026-03-28 15:11:00,Delhi,iOS,Referral
+U0102,2026-06-07 15:20:00,Hyderabad,iOS,Organic
+U0103,2026-07-09 09:30:00,Delhi,Web,Paid Ads
+U0104,2026-01-12 11:41:00,Mumbai,Web,Google
+U0105,2026-01-08 11:53:00,Delhi,Web,Instagram
+U0106,2026-04-05 15:42:00,Mumbai,Web,Instagram
+U0107,2026-08-23 12:49:00,Hyderabad,Android,Paid Ads
+U0108,2026-02-25 10:19:00,Mumbai,Web,Google
+U0109,2026-05-19 18:58:00,Kolkata,iOS,Instagram
+U0110,2026-02-19 19:53:00,Bangalore,Android,Organic
+U0111,2026-02-26 17:50:00,Delhi,iOS,Paid Ads
+U0112,2026-07-22 13:04:00,Hyderabad,Android,Referral
+U0113,2026-08-04 14:23:00,Chennai,Web,Instagram
+U0114,2026-07-06 19:33:00,Pune,Web,Paid Ads
+U0115,2026-08-15 14:52:00,Pune,iOS,Instagram
+U0116,2026-02-09 15:15:00,Chennai,Web,Paid Ads
+U0117,2026-07-11 08:31:00,Hyderabad,Android,Referral
+U0118,2026-04-12 20:16:00,Hyderabad,iOS,Paid Ads
+U0119,2026-05-18 08:33:00,Bangalore,Android,Instagram
+U0120,2026-07-16 16:48:00,Bangalore,Web,Referral
+U0121,2026-08-15 20:01:00,Mumbai,iOS,Instagram
+U0122,2026-07-23 11:19:00,Hyderabad,iOS,Paid Ads
+U0123,2026-09-12 14:47:00,Hyderabad,iOS,Referral
+U0124,2026-05-10 12:14:00,Mumbai,Web,Instagram
+U0125,2026-06-04 19:34:00,Jaipur,Android,Instagram
+U0126,2026-08-09 19:37:00,Pune,Android,Instagram
+U0127,2026-05-08 13:11:00,Pune,Android,Paid Ads
+U0128,2026-03-09 08:03:00,Pune,Web,Instagram
+U0129,2026-08-04 08:36:00,Pune,iOS,Referral
+U0130,2026-08-11 10:03:00,Pune,iOS,Google
+U0131,2026-02-13 15:04:00,Delhi,Android,Instagram
+U0132,2026-05-03 11:07:00,Kolkata,Web,Paid Ads
+U0133,2026-04-25 16:24:00,Chennai,iOS,Organic
+U0134,2026-07-10 17:39:00,Delhi,Web,Google
+U0135,2026-04-21 11:16:00,Mumbai,Android,Instagram
+U0136,2026-03-18 09:10:00,Delhi,iOS,Referral
+U0137,2026-08-10 08:14:00,Pune,Web,Organic
+U0138,2026-08-03 18:14:00,Pune,Web,Paid Ads
+U0139,2026-04-14 09:34:00,Bangalore,Web,Instagram
+U0140,2026-05-27 10:04:00,Delhi,Android,Organic
+U0141,2026-05-15 09:29:00,Pune,Web,Referral
+U0142,2026-05-17 16:31:00,Chennai,Android,Paid Ads
+U0143,2026-01-14 19:20:00,Pune,Android,Google
+U0144,2026-04-22 17:37:00,Delhi,Web,Organic
+U0145,2026-01-25 20:11:00,Chennai,Web,Referral
+U0146,2026-05-06 17:27:00,Chennai,Android,Referral
+U0147,2026-06-14 13:20:00,Mumbai,Android,Organic
+U0148,2026-07-23 15:18:00,Kolkata,Web,Google
+U0149,2026-08-03 13:16:00,Hyderabad,Android,Referral
+U0150,2026-09-27 08:42:00,Chennai,iOS,Google
+U0151,2026-04-17 13:39:00,Chennai,Web,Referral
+U0152,2026-01-07 12:35:00,Jaipur,iOS,Referral
+U0153,2026-08-04 08:40:00,Bangalore,Web,Instagram
+U0154,2026-05-18 08:35:00,Kolkata,Android,Instagram
+U0155,2026-02-15 09:41:00,Jaipur,iOS,Organic
+U0156,2026-09-23 12:26:00,Chennai,iOS,Instagram
+U0157,2026-08-18 10:24:00,Bangalore,Web,Paid Ads
+U0158,2026-03-28 09:17:00,Kolkata,iOS,Paid Ads
+U0159,2026-05-27 08:18:00,Pune,Web,Paid Ads
+U0160,2026-08-28 10:28:00,Chennai,iOS,Organic
+U0161,2026-09-25 16:24:00,Chennai,iOS,Instagram
+U0162,2026-04-19 14:14:00,Kolkata,Android,Organic
+U0163,2026-08-23 20:24:00,Kolkata,Web,Instagram
+U0164,2026-08-02 10:32:00,Hyderabad,Android,Referral
+U0165,2026-02-17 15:00:00,Jaipur,iOS,Instagram
+U0166,2026-02-16 20:16:00,Hyderabad,Web,Referral
+U0167,2026-02-28 13:54:00,Kolkata,iOS,Referral
+U0168,2026-09-02 17:04:00,Bangalore,Web,Organic
+U0169,2026-04-24 09:27:00,Mumbai,Web,Google
+U0170,2026-08-06 19:19:00,Delhi,Android,Organic
+U0171,2026-01-10 13:23:00,Kolkata,Android,Instagram
+U0172,2026-09-14 17:43:00,Jaipur,Android,Instagram
+U0173,2026-02-20 14:39:00,Bangalore,iOS,Paid Ads
+U0174,2026-03-08 15:40:00,Pune,iOS,Organic
+U0175,2026-01-26 15:57:00,Pune,Web,Paid Ads
+U0176,2026-03-03 15:22:00,Pune,Web,Referral
+U0177,2026-05-15 12:12:00,Kolkata,iOS,Google
+U0178,2026-04-13 17:22:00,Pune,Web,Organic
+U0179,2026-01-27 18:25:00,Pune,Android,Paid Ads
+U0180,2026-01-20 19:31:00,Pune,Android,Paid Ads
+U0181,2026-06-08 18:12:00,Pune,Web,Instagram
+U0182,2026-02-21 18:02:00,Pune,iOS,Google
+U0183,2026-06-24 10:05:00,Pune,iOS,Referral
+U0184,2026-03-07 10:50:00,Hyderabad,Web,Paid Ads
+U0185,2026-05-27 10:16:00,Chennai,iOS,Organic
+U0186,2026-02-15 09:09:00,Bangalore,Web,Referral
+U0187,2026-09-12 09:50:00,Kolkata,Android,Organic
+U0188,2026-09-04 15:23:00,Pune,Web,Referral
+U0189,2026-06-04 18:14:00,Chennai,Android,Paid Ads
+U0190,2026-09-11 17:14:00,Mumbai,Web,Referral
+U0191,2026-05-21 14:07:00,Jaipur,Android,Google
+U0192,2026-05-16 09:06:00,Bangalore,Web,Instagram
+U0193,2026-07-15 13:42:00,Kolkata,Web,Instagram
+U0194,2026-07-21 09:53:00,Chennai,Web,Referral
+U0195,2026-05-02 19:23:00,Bangalore,iOS,Referral
+U0196,2026-04-28 13:06:00,Hyderabad,Web,Organic
+U0197,2026-01-13 12:12:00,Mumbai,iOS,Google
+U0198,2026-04-21 18:38:00,Delhi,Android,Organic
+U0199,2026-04-05 20:36:00,Bangalore,Android,Paid Ads
+U0200,2026-04-19 11:52:00,Bangalore,iOS,Instagram
+U0201,2026-01-09 10:08:00,Pune,Android,Google
+U0202,2026-01-05 08:22:00,Bangalore,Web,Organic
+U0203,2026-01-06 12:03:00,Jaipur,Web,Referral
+U0204,2026-09-04 19:04:00,Chennai,iOS,Organic
+U0205,2026-09-19 09:28:00,Bangalore,Web,Google
+U0206,2026-09-10 15:41:00,Delhi,Android,Referral
+U0207,2026-07-14 18:06:00,Chennai,Web,Referral
+U0208,2026-02-03 13:38:00,Jaipur,Android,Instagram
+U0209,2026-05-20 18:37:00,Hyderabad,iOS,Paid Ads
+U0210,2026-09-10 15:32:00,Kolkata,Android,Google
+U0211,2026-09-24 11:27:00,Chennai,Android,Referral
+U0212,2026-06-27 15:25:00,Kolkata,Web,Google
+U0213,2026-06-14 13:42:00,Pune,iOS,Instagram
+U0214,2026-08-03 09:53:00,Mumbai,Android,Referral
+U0215,2026-02-24 19:23:00,Jaipur,Web,Google
+U0216,2026-09-18 13:42:00,Mumbai,iOS,Organic
+U0217,2026-07-28 19:03:00,Pune,Web,Organic
+U0218,2026-06-04 17:32:00,Bangalore,Android,Referral
+U0219,2026-04-28 09:22:00,Hyderabad,Android,Organic
+U0220,2026-04-26 14:54:00,Delhi,Web,Organic
+U0221,2026-01-06 12:44:00,Pune,iOS,Organic
+U0222,2026-01-06 10:36:00,Kolkata,Android,Instagram
+U0223,2026-01-03 19:33:00,Bangalore,iOS,Referral
+U0224,2026-08-11 10:23:00,Pune,Web,Organic
+U0225,2026-02-02 10:10:00,Delhi,Web,Google
+U0226,2026-05-15 18:27:00,Chennai,Web,Referral
+U0227,2026-07-09 11:48:00,Mumbai,iOS,Referral
+U0228,2026-02-10 18:43:00,Chennai,Web,Organic
+U0229,2026-01-08 14:38:00,Delhi,Android,Instagram
+U0230,2026-05-07 20:08:00,Pune,iOS,Organic
+U0231,2026-02-01 15:47:00,Kolkata,Android,Instagram
+U0232,2026-07-18 19:14:00,Hyderabad,Android,Referral
+U0233,2026-01-14 08:29:00,Mumbai,iOS,Paid Ads
+U0234,2026-07-19 14:45:00,Kolkata,iOS,Google
+U0235,2026-07-01 13:10:00,Chennai,Web,Organic
+U0236,2026-02-14 09:15:00,Kolkata,Web,Referral
+U0237,2026-09-03 14:55:00,Pune,Web,Organic
+U0238,2026-04-11 20:10:00,Mumbai,Web,Google
+U0239,2026-09-17 11:57:00,Hyderabad,iOS,Instagram
+U0240,2026-04-04 10:16:00,Bangalore,Android,Paid Ads
+U0241,2026-03-25 20:41:00,Mumbai,Android,Referral
+U0242,2026-08-25 17:48:00,Chennai,Web,Paid Ads
+U0243,2026-06-28 18:20:00,Jaipur,iOS,Google
+U0244,2026-08-15 18:19:00,Pune,Web,Google
+U0245,2026-06-17 09:19:00,Chennai,iOS,Google
+U0246,2026-01-12 12:04:00,Mumbai,Web,Paid Ads
+U0247,2026-09-13 15:37:00,Delhi,iOS,Paid Ads
+U0248,2026-04-11 17:30:00,Jaipur,Android,Referral
+U0249,2026-02-26 13:45:00,Mumbai,Web,Instagram
+U0250,2026-01-08 19:28:00,Chennai,Web,Paid Ads
